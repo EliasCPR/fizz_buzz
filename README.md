@@ -1,6 +1,13 @@
 # FizzBuzz
 
-**TODO: Add description**
+## Description
+### Read a list of numbers from a file
+
+● Multiples of 3 are replaced by Fizz
+
+● Multiples of 5 are replaced by Buzz
+
+● Multiples of 3 and 5 are replaced by FizzBuzz
 
 ## Installation
 
